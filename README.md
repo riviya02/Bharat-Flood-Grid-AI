@@ -44,6 +44,21 @@
 - [ ] Government Grant Application (NIDHI-PRAYAS)
 
 ---
+## ⚡ Development Milestone: Cloud & Alert System (Verified)
+As of tonight, the system has transitioned from a local concept to a **Cloud-Connected MVP**. 
+
+### ✅ Achieved Milestones:
+*   **Edge-to-Cloud Handshake**: ESP32 successfully integrated with Blynk IoT Cloud.
+*   **Real-time Telemetry**: Live data stream established for water level monitoring.
+*   **Emergency Response Logic**: Critical alert system configured with Push Notifications.
+*   **Multi-Platform Monitoring**: Verified data synchronization across Web and Mobile dashboards.
+
+### 📊 System Logic:
+- **Threshold**: 280cm (Critical Surge Level)
+- **Action**: Automated triggering of `flood_alert` event.
+- **Latency**: Sub-second reporting from Edge to Cloud.
+
+> "The software 'pipes' are now open. The system is currently running localized simulation logic to verify disaster-resilience before physical sensor integration."
 
 ## 🤝 Support & Contact
 I am a solo founder looking for **Government Pilot Programs**, **Deep-Tech Mentors**, and collaborators who want to solve India's urban flood crisis.
