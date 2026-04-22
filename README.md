@@ -68,4 +68,4 @@ I am a solo founder looking for **Government Pilot Programs**, **Deep-Tech Mento
 *   **Status**: Active Research & Development Phase
 
 ---
-© 2026 Bharat Flood-Grid AI. Built for Bharat.
+© 2026 R & V Group - Bharat Flood-Grid AI. Built for Bharat.
